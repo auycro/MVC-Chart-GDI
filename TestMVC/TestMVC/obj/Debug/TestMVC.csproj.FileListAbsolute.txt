@@ -1,0 +1,5 @@
+c:\users\aui\documents\visual studio 2010\Projects\TestMVC\TestMVC\bin\TestMVC.dll
+c:\users\aui\documents\visual studio 2010\Projects\TestMVC\TestMVC\bin\TestMVC.pdb
+c:\users\aui\documents\visual studio 2010\Projects\TestMVC\TestMVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aui\documents\visual studio 2010\Projects\TestMVC\TestMVC\obj\Debug\TestMVC.dll
+c:\users\aui\documents\visual studio 2010\Projects\TestMVC\TestMVC\obj\Debug\TestMVC.pdb
